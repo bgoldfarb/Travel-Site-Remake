@@ -1,17 +1,5 @@
+@import 'modules/_large-hero';
+@import 'base/_global';
 
 
-body{
-    color : red;
-    margin:10px;
-    columns: 300px 2;
-}
 
-.box {
-    
-    a{
-        display : block;
-        padding : 10px;
-    }
-
-
-}
